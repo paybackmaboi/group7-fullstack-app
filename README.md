@@ -183,6 +183,10 @@ SMTP_PASS=your_password</code></pre>
   </tr>
   <tr>
     <td>Ly Ann Kate Candido</td>
+    <td>Documentation Specialist</td>
+<tr>
+<td>Jade Steve Molejon</td>
     <td>DevOps Lead</td>
+</tr>
   </tr>
 </table>
