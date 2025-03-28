@@ -1,6 +1,6 @@
-<h1>🚀 Collaborative Development of a Full-Stack Application: Group 6</h1>
+<h1>Collaborative Development of a Full-Stack Application: Group 6</h1>
 
-<h2>📌 Project Description</h2>
+<h2>Project Description</h2>
 <p>This project is a full-stack web application designed to provide user authentication, role-based access control, profile management, and email verification. It consists of:</p>
 <ul>
   <li><strong>Backend:</strong> Node.js + MySQL API</li>
@@ -11,9 +11,9 @@
 
 <hr>
 
-<h2>🛠️ Setup Instructions</h2>
+<h2>Setup Instructions</h2>
 
-<h3>1️⃣ Prerequisites</h3>
+<h3>Prerequisites</h3>
 <p>Before setting up the project, ensure you have the following installed:</p>
 <ul>
   <li><strong>Node.js</strong> (v16+)</li>
@@ -22,7 +22,7 @@
   <li><strong>Git</strong> (Latest Version)</li>
 </ul>
 
-<h3>2️⃣ Backend Setup (Node.js + MySQL)</h3>
+<h3>Backend Setup (Node.js + MySQL)</h3>
 <ol>
   <li><strong>Clone the repository:</strong>
     <pre><code>git clone https://github.com/yourusername/groupX-fullstack-app.git
@@ -48,7 +48,7 @@ SMTP_PASS=your_password</code></pre>
   </li>
 </ol>
 
-<h3>3️⃣ Frontend Setup (Angular 19)</h3>
+<h3>Frontend Setup (Angular 19)</h3>
 <ol>
   <li><strong>Navigate to the frontend directory:</strong>
     <pre><code>cd frontend</code></pre>
@@ -68,7 +68,7 @@ SMTP_PASS=your_password</code></pre>
 
 <hr>
 
-<h2>💼 API Endpoints</h2>
+<h2>API Endpoints</h2>
 <table border="1">
   <tr>
     <th>Method</th>
@@ -121,7 +121,7 @@ SMTP_PASS=your_password</code></pre>
 
 <hr>
 
-<h2>🎨 Frontend Features</h2>
+<h2>Frontend Features</h2>
 <ul>
   <li><strong>User Authentication:</strong> Register, Login, Logout</li>
   <li><strong>Profile Management:</strong> Update profile details</li>
@@ -132,7 +132,7 @@ SMTP_PASS=your_password</code></pre>
 
 <hr>
 
-<h2>🧪 Testing Instructions</h2>
+<h2>Testing Instructions</h2>
 
 <h3>Backend Testing (Postman)</h3>
 <ol>
@@ -159,7 +159,7 @@ SMTP_PASS=your_password</code></pre>
 
 <hr>
 
-<h2>👨‍💻 Contributors</h2>
+<h2>Contributors</h2>
 <table border="1">
   <tr>
     <th>Name</th>
